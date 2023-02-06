@@ -1,0 +1,20 @@
+yarn add --dev hardhat
+yarn hardhat : asking for creating a project
+add solhint and run solhint https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions/885
+add prettier plugins and files
+hardhat.config.js
+
+deployment : 
+yarn add --dev hardhat deploy
+https://github.com/wighawag/hardhat-deploy#npm-install-hardhat-deploy
+create deploy folder
+deploy scripts
+then function and getting function from hre
+then namedAccounts in hardhat.config.js
+
+>> Moking and helper-hardhat-config
+default network -- hardhat in hardhat.config.js
+then deploy scripts
+
+then for custom chain deployment : aave-v3-core for helper-hardhat-config.js
+
